@@ -49,7 +49,7 @@ significant points here.
 -   The model had a tendency to predict one category as 100%
     probability - turns out I hadn’t normalised the data. Exploring
     whether this is still a problem now, but it doesn’t seem to be.
--   The next ideas I’m exploring are something to “inverse” each pixel
+-   The next ideas I’m exploring are something to invert each pixel
     on each loop to see if it can get to a general outline quicker, also
     thinking of having the model “sketch” lines to see what happens.
 
