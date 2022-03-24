@@ -1,5 +1,9 @@
 #########
 # Generative Art Test
+#
+# Tensorflow / Rstudio classification model code from:
+# https://tensorflow.rstudio.com/tutorials/beginners/basic-ml/tutorial_basic_classification/
+#
 #########
 
 library(keras)
